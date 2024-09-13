@@ -1,0 +1,9 @@
+.card_container {
+    width: 954px;
+    height: 594px;
+    background-color: #BE0909;
+    box-shadow:2px 2px  black;
+    border-radius: 10px;
+    color: floralwhite;
+
+}
