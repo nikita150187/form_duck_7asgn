@@ -13,10 +13,7 @@
     position: relative;
     top: 30px;
     left: 50px;
-    border: 1px;
-    
-
-}
+    border: 1px;}
 .input-field {
     display: block;
     background-color: rgb(240, 240, 157);
@@ -26,4 +23,23 @@
     width: 150px;
     height: 25px;  
     border-radius: 8px;
+}
+.button {
+    position: relative;
+    top: 50px;
+    left: 70px;
+    background-color: blue;
+    color: white;
+    font-weight: bold;
+    width: 120px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.duck-img {
+    position: relative;
+    left: 250px;
+    top: -400px;
+    
+
 }
