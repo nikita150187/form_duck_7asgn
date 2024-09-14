@@ -1,5 +1,5 @@
 .card_container {
-    width: 954px;
+    width: 854px;
     height: 594px;
     background-color: #BE0909;
     box-shadow:2px 2px  black;
@@ -35,11 +35,22 @@
     height: 30px;
     border-radius: 10px;
 }
+#rectangle{
+    width:200px;
+    height:100px;
+    background:blue;
+    width: 345px;
+    height: 594px;
+    position: relative;
+    left: 510px;
+    top: -430px;
+    border-radius: 10px;
+    background-color: #FFB039;
+}
 
 .duck-img {
     position: relative;
-    left: 250px;
-    top: -400px;
-    
+    left: 240px;
+    top: -1000px;}
 
-}
+    
